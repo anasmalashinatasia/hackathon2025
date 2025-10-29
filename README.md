@@ -1,2 +1,2 @@
-# hakaton2025
+# hackathon2025
 Nastya, Nastya, Bogdan, Denis
